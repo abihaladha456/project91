@@ -17,7 +17,7 @@ body
 	display: inline-block;
 	margin-left: 20px;
 }
-#word
+#word1,#word2
 {
 	width: 60%;
 }
@@ -27,7 +27,7 @@ body
 }
 #output
 {
-background: rgb(255, 255, 255);
+background: white;
 border-radius: 10px;
 border-top: 10px solid #AA4465;
 padding: 10px;
